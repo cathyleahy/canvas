@@ -1,0 +1,6 @@
+{
+    "canvas":{
+        "access_token":"my_secret_token",
+        "host":"rmit.instructure.com"
+    }
+}
